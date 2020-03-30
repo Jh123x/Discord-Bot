@@ -9,6 +9,6 @@ Fill up the .env with the relavant information to start using the bot
 2. youtube_dl
 
 # Tutorial
-1. (How to make a discord bot)[https://realpython.com/how-to-make-a-discord-bot-python/]
+1. [How to make a discord bot](https://realpython.com/how-to-make-a-discord-bot-python/)
 
 # To be updated in the future
