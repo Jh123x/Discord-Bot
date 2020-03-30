@@ -12,3 +12,5 @@ Fill up the .env with the relavant information to start using the bot
 1. [How to make a discord bot](https://realpython.com/how-to-make-a-discord-bot-python/)
 
 # To be updated in the future
+1. Working economy
+2. More functions to interact with the user
